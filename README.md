@@ -38,7 +38,6 @@
 | 스터디 OT | 인싸타임 자기주도학습시간(16:00~16:15) | V |
 | 1주차 CLF (11/07) | [캐글 분류과제 노트북 필사](https://github.com/wumusill/AI_School/tree/main/Kaggle/wine) (Prediction of quality of Wine🍷) | V |
 | 2주차 REG (11/15) | [캐글 회귀과제 노트북 필사](https://github.com/wumusill/AI_School/blob/main/Kaggle/mpg/mpg.ipynb) (Exploration and analysis - Auto-MPG)| V |
-
 | 3주차 DNN (11/22) | DNN(Deep Neural Network) <br/>: [MNIST 숫자](https://github.com/wumusill/AI_School/blob/main/Kaggle/MNIST/MNIST_tutorial.ipynb) & [패션 데이터 이미지분류 노트북 필사](https://github.com/wumusill/AI_School/blob/main/Kaggle/MNIST/clothes_image.ipynb)  | V |
 | 4주차 CNN (11/29) | 3주차 DNN(Deep Neural Network) 발표 | V |
 | 5주차 RNN (12/07) | 4주차 CNN 과제 수행 및 발표<br/>: CIFAR10 Dataset Classification LeNet-5 Model | V |
